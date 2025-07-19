@@ -1,4 +1,4 @@
-### Hi there 👋 I am Om, a 3rd year CS student at BITS Pilani.
+### Hi there 👋 I am Om, a 4th year CS student at BITS Pilani.
 <!--
 **om-gupta-30/om-gupta-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
