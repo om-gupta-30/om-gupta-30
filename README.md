@@ -1,116 +1,195 @@
-<h1 align="center">Hey, I'm Om Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full-Stack AI Engineer</strong><br/>
-  Building production-grade AI systems, enterprise platforms, and intelligent automation.
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Om%20Gupta&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Engineer&descSize=20&descAlignY=55&descColor=8b949e)
 
-<p align="center">
-  <a href="https://portfolio-website-iota-opal-60.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/om-gupta-2601b9229"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:omg767430@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:guptaom31619@gmail.com"><img src="https://img.shields.io/badge/Alt_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-omgupta.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-iota-opal-60.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-gupta-2601b9229)
+[![Email](https://img.shields.io/badge/Email-omg767430-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omg767430@gmail.com)
+[![Email](https://img.shields.io/badge/Email-guptaom31619-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaom31619@gmail.com)
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+production+AI+systems+shipped+to+real+teams;23+projects+%7C+LLMs+%7C+RAG+%7C+Computer+Vision+%7C+Full-Stack;Software+Engineer+%40+YNM+Safety+%7C+BITS+Pilani+Dubai" alt="Typing SVG" />
 
-### About Me
+</div>
 
-- **Software Engineer** at **YNM Safety** — building internal CRMs, ERP systems, AI chatbots, and automation pipelines
-- **B.Tech in Computer Science** from **BITS Pilani, Dubai** (2021–2025) — 7.51 CGPA
-- Based in **Hyderabad, India**
-- Previously interned at **Savills Middle East** (UAE)
+<br/>
 
----
-
-### What I Build
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>AI Agents & LLM Apps</h4>
-      RAG pipelines, document compliance agents, text-to-SQL, text-to-video, AI chatbots for enterprise knowledge retrieval
-    </td>
-    <td width="50%">
-      <h4>ML / Deep Learning</h4>
-      Football player detection (YOLO), FPL prediction models, Carnatic music generation with GenAI
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>Full-Stack Products</h4>
-      ERP systems, CRM + price engines, real-time dashboards, corporate websites — shipped to real teams
-    </td>
-    <td width="50%">
-      <h4>Cloud & Infrastructure</h4>
-      GCP log monitoring agents, async AI job processing, AI security scanning, deployment automation
-    </td>
-  </tr>
+<table align="center">
+<tr>
+<td align="center"><strong>23</strong><br/>Projects Built</td>
+<td align="center"><strong>5+</strong><br/>Production Systems</td>
+<td align="center"><strong>BITS Pilani</strong><br/>CS '25, Dubai</td>
+<td align="center"><strong>YNM Safety</strong><br/>Software Engineer</td>
+</tr>
 </table>
 
 ---
 
-### Tech Stack
+## `> whoami`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,flask&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,gcp,aws,postgres,mongodb,redis&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,tailwind,prisma,vercel,figma&theme=dark" />
-</p>
+Software Engineer at **YNM Safety** building enterprise platforms, AI chatbots, and internal tools used by real teams. BITS Pilani Dubai CS grad. Previously at **Savills Middle East** (UAE).
+
+I build things across the entire stack — from training ML models and wiring up LLM agents to shipping polished React frontends on GCP.
 
 ---
 
-### Experience
+## Tech Arsenal
 
-| Role | Company | Duration | Location |
-|------|---------|----------|----------|
-| **Software Engineer** | YNM Safety | Nov 2025 – Present | Hyderabad, India |
-| **Property Management Intern** | Savills Middle East | Feb 2025 – Jun 2025 | Sharjah, UAE |
+<div align="center">
 
----
+**Languages & Frameworks**
 
-### Education
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-| Degree | Institution | Year | Score |
-|--------|------------|------|-------|
-| **B.Tech, Computer Science** | BITS Pilani, Dubai | 2021 – 2025 | 7.51 CGPA |
+**AI / ML**
 
-**Key Coursework:** Artificial Intelligence, Deep Learning, Data Structures & Algorithms, Computer Networks, Database Systems, Compiler Construction, Operating Systems, Foundations of Data Science, Theory of Computation
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
 
----
+**Infrastructure & DevOps**
 
-### Featured Projects
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-| Project | What it does |
-|---------|-------------|
-| [**AgentOps-AI-Platform**](https://github.com/om-gupta-30/AgentOps-AI-Platform) | Platform for orchestrating, monitoring, and managing AI agents |
-| [**RagLab**](https://github.com/om-gupta-30/RagLab) | Experimentation lab for building and testing RAG pipelines |
-| [**Text-to-Video**](https://github.com/om-gupta-30/Text-to-Video) | AI-powered text-to-video generation pipeline |
-| [**ML-FPL-Predictor**](https://github.com/om-gupta-30/ML-FPL-Predictor) | ML model for Fantasy Premier League player predictions |
-| [**AI-Security-Scanner**](https://github.com/om-gupta-30/AI-Security-Scanner) | AI-powered security vulnerability scanner |
-| [**Text-to-SQL**](https://github.com/om-gupta-30/Text-to-SQL) | Natural language to SQL converter powered by LLMs |
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om-gupta-30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-gupta-30&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-gupta-30&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=om-gupta-30&style=for-the-badge&color=blue" />
-</p>
+## What I Ship
 
-<p align="center">
-  <i>Open to collaborations on AI/ML projects and full-stack engineering roles.</i>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI Agents & LLM Systems
+RAG pipelines with hybrid retrieval (BM25 + FAISS + cross-encoder), multi-agent orchestration with LangGraph, document compliance agents, text-to-SQL/video generators, enterprise chatbots with Google Gemini & GPT-4o
+
+</td>
+<td width="50%" valign="top">
+
+### ML & Computer Vision
+Football player detection & tracking (YOLOv8 + DeepSort), FPL prediction (XGBoost + SGD), Carnatic music generation, geopolitical event classification (BERTopic + LightGBM)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Enterprise Full-Stack
+CRM + dynamic pricing engines, ERP with RLS & Supabase Auth, real-time dashboards, quantitative trading platforms — all deployed on GCP Cloud Run with CI/CD
+
+</td>
+<td width="50%" valign="top">
+
+### Infra & Platform Engineering
+Async job processing (Celery + Redis + PostgreSQL), GCP log monitoring agents, AI security scanners (OWASP ZAP), engineering copilot infra with MCP servers
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+| | Project | Stack | What it does |
+|---|---------|-------|-------------|
+| 🌐 | [**GeoPulse**](https://github.com/om-gupta-30/GeoPulse) | `Next.js` `Three.js` `FastAPI` `BERTopic` `PostgreSQL` | Geopolitical intelligence platform — 3D globe, real-time event tracking, ML-powered tension indices |
+| 🤖 | [**AgentOps AI Platform**](https://github.com/om-gupta-30/AgentOps-AI-Platform) | `LangChain` `LangGraph` `ChromaDB` `LangSmith` `Next.js` | Multi-agent orchestration platform with observability via LangSmith & Langfuse |
+| 🔬 | [**RAGLab**](https://github.com/om-gupta-30/RagLab) | `LangChain` `FAISS` `BM25` `Cross-encoder` `Next.js` | RAG experimentation platform — hybrid retrieval, graph-based chunking, A/B testing |
+| 📊 | [**AltAlpha Lab**](https://github.com/om-gupta-30/AltAlpha-Lab) | `FastAPI` `scikit-learn` `yfinance` `VADER` `React` | Quantitative trading platform with ML predictions and sentiment analysis |
+| 📄 | [**AI Document Parser**](https://github.com/om-gupta-30/AI-Document-Parser) | `GPT-4o-mini` `Redis` `Langfuse` `Docker` `Nginx` | Production document extraction service with async processing and observability |
+| ⚡ | [**Async AI Job Platform**](https://github.com/om-gupta-30/Async-AI-Job-Processing-Platform) | `Celery` `Redis` `PostgreSQL` `SQLAlchemy` `Flower` | Scalable async job processing — Celery workers, Flower monitoring, Locust load tests |
+| 🛡️ | [**AI Security Scanner**](https://github.com/om-gupta-30/AI-Security-Scanner) | `OWASP ZAP` `GPT-4` `httpx` `Redis` `pytest` | Automated security scanning with AI-powered vulnerability analysis |
+| ⚽ | [**Football Vision AI**](https://github.com/om-gupta-30/DL-Football-player-detection) | `YOLOv8` `DeepSort` `OpenCV` `FastAPI` `React` | Real-time football player detection, tracking, and team assignment |
+| 🏢 | [**YNM CRM & Price Engine**](https://github.com/om-gupta-30/YNM-PRICE-ENGINE-CRM) | `Next.js` `TypeScript` `Supabase` `Gemini` `GCP` | Enterprise CRM with dynamic pricing, deployed at [crm-ynmsafety.com](https://www.crm-ynmsafety.com/login) |
+| 💬 | [**RAG PDF Chatbot**](https://github.com/om-gupta-30/YNM-RAG-CHATBOT) | `FastAPI` `FAISS` `Gemini` `React` `Docker` | Enterprise chatbot for PDF knowledge retrieval with vector search |
+
+</div>
+
+> **All 23 projects** have full case studies on my [portfolio](https://portfolio-website-iota-opal-60.vercel.app/) — architecture decisions, tradeoffs, and outcomes.
+
+---
+
+## Experience & Education
+
+```
+📍 Hyderabad, India
+
+💼 Software Engineer     @ YNM Safety              Nov 2025 – Present
+   → CRM, ERP, AI chatbots, pricing engines, automation pipelines
+
+💼 PM Intern             @ Savills Middle East      Feb 2025 – Jun 2025
+   → Property data management, financial process optimization (Sharjah, UAE)
+
+🎓 B.Tech CS (7.51)     @ BITS Pilani, Dubai       2021 – 2025
+   → AI, Deep Learning, DSA, Computer Networks, OS, Compilers, TOC
+   → Vice President, Quiz Club
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=om-gupta-30&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-gupta-30&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="170" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=om-gupta-30&theme=github-dark-blue&hide_border=true&background=0d1117" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=om-gupta-30&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/om-gupta-30/om-gupta-30/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/om-gupta-30/om-gupta-30/blob/output/github-snake.svg" />
+  <img alt="snake eating contributions" src="https://github.com/om-gupta-30/om-gupta-30/blob/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=om-gupta-30&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+**Building AI systems that actually ship.** Got an interesting problem? [Let's talk.](mailto:omg767430@gmail.com)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer)
