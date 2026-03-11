@@ -19,7 +19,7 @@
 - **Software Engineer** at **YNM Safety** — building internal CRMs, ERP systems, AI chatbots, and automation pipelines
 - **B.Tech in Computer Science** from **BITS Pilani, Dubai** (2021–2025) — 7.51 CGPA
 - Based in **Hyderabad, India**
-- Previously interned at **Savills Middle East** (UAE) and **Evento Entertainments**
+- Previously interned at **Savills Middle East** (UAE)
 
 ---
 
@@ -67,7 +67,6 @@
 | Role | Company | Duration | Location |
 |------|---------|----------|----------|
 | **Software Engineer** | YNM Safety | Nov 2025 – Present | Hyderabad, India |
-| **Data Analytics Intern** | Evento Entertainments | Jul 2025 – Oct 2025 | India |
 | **Property Management Intern** | Savills Middle East | Feb 2025 – Jun 2025 | Sharjah, UAE |
 
 ---
