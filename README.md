@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-omg767430-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omg767430@gmail.com)
 [![Email](https://img.shields.io/badge/Email-guptaom31619-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaom31619@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+production+AI+systems+shipped+to+real+teams;23+projects+%7C+LLMs+%7C+RAG+%7C+Computer+Vision+%7C+Full-Stack;Software+Engineer+%40+YNM+Safety+%7C+BITS+Pilani+Dubai" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=30&lines=Building+production+AI+systems+shipped+to+real+teams;23+projects+across+AI%2C+ML%2C+and+Full-Stack;SWE+%40+YNM+Safety+%E2%80%A2+BITS+Pilani+Dubai+%E2%80%A2+CS+'25" alt="Typing SVG" />
 
 </div>
 
