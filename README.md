@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-omg767430-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omg767430@gmail.com)
 [![Email](https://img.shields.io/badge/Email-guptaom31619-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptaom31619@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=30&lines=Building+production+AI+systems+shipped+to+real+teams;23+projects+across+AI%2C+ML%2C+and+Full-Stack;SWE+%40+YNM+Safety+%E2%80%A2+BITS+Pilani+Dubai+%E2%80%A2+CS+'25" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=30&lines=Building+production+AI+systems+shipped+to+real+teams;25+projects+across+AI%2C+ML%2C+and+Full-Stack;SWE+%40+YNM+Safety+%E2%80%A2+BITS+Pilani+Dubai+%E2%80%A2+CS+'25" alt="Typing SVG" />
 
 </div>
 
@@ -15,7 +15,7 @@
 
 <table align="center">
 <tr>
-<td align="center"><strong>23</strong><br/>Projects Built</td>
+<td align="center"><strong>25</strong><br/>Projects Built</td>
 <td align="center"><strong>5+</strong><br/>Production Systems</td>
 <td align="center"><strong>BITS Pilani</strong><br/>CS '25, Dubai</td>
 <td align="center"><strong>YNM Safety</strong><br/>Software Engineer</td>
@@ -46,6 +46,14 @@ I build things across the entire stack — from training ML models and wiring up
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**3D / Interactive**
+
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/R3F-000?style=flat-square&logo=react&logoColor=61DAFB)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![globe.gl](https://img.shields.io/badge/globe.gl-1a1a2e?style=flat-square)
 
 **AI / ML**
 
@@ -95,8 +103,8 @@ Football player detection & tracking (YOLOv8 + DeepSort), FPL prediction (XGBoos
 <tr>
 <td width="50%" valign="top">
 
-### Enterprise Full-Stack
-CRM + dynamic pricing engines, ERP with RLS & Supabase Auth, real-time dashboards, quantitative trading platforms — all deployed on GCP Cloud Run with CI/CD
+### Enterprise Full-Stack & 3D
+CRM + dynamic pricing engines, ERP with RLS & Supabase Auth, real-time dashboards, quantitative trading platforms, interactive 3D experiences (React Three Fiber + GSAP) — deployed on GCP Cloud Run with CI/CD
 
 </td>
 <td width="50%" valign="top">
@@ -116,6 +124,7 @@ Async job processing (Celery + Redis + PostgreSQL), GCP log monitoring agents, A
 
 | | Project | Stack | What it does |
 |---|---------|-------|-------------|
+| 🏎️ | [**Inside F1**](https://github.com/om-gupta-30/Inside-F1) | `R3F` `Three.js` `GSAP` `Next.js` `TypeScript` | Interactive 3D F1 car explorer — 18 parts, exploded view, airflow viz, DRS, live standings |
 | 🌐 | [**GeoPulse**](https://github.com/om-gupta-30/GeoPulse) | `Next.js` `Three.js` `FastAPI` `BERTopic` `PostgreSQL` | Geopolitical intelligence platform — 3D globe, real-time event tracking, ML-powered tension indices |
 | 🤖 | [**AgentOps AI Platform**](https://github.com/om-gupta-30/AgentOps-AI-Platform) | `LangChain` `LangGraph` `ChromaDB` `LangSmith` `Next.js` | Multi-agent orchestration platform with observability via LangSmith & Langfuse |
 | 🔬 | [**RAGLab**](https://github.com/om-gupta-30/RagLab) | `LangChain` `FAISS` `BM25` `Cross-encoder` `Next.js` | RAG experimentation platform — hybrid retrieval, graph-based chunking, A/B testing |
@@ -129,7 +138,7 @@ Async job processing (Celery + Redis + PostgreSQL), GCP log monitoring agents, A
 
 </div>
 
-> **All 23 projects** have full case studies on my [portfolio](https://portfolio-website-iota-opal-60.vercel.app/) — architecture decisions, tradeoffs, and outcomes.
+> **All 25 projects** have full case studies on my [portfolio](https://portfolio-website-iota-opal-60.vercel.app/) — architecture decisions, tradeoffs, and outcomes.
 
 ---
 
