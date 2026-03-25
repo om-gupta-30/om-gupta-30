@@ -134,6 +134,7 @@ Async job processing (Celery + Redis + PostgreSQL), GCP log monitoring agents, A
 | 🛡️ | [**AI Security Scanner**](https://github.com/om-gupta-30/AI-Security-Scanner) | `OWASP ZAP` `GPT-4` `httpx` `Redis` `pytest` | Automated security scanning with AI-powered vulnerability analysis |
 | ⚽ | [**Football Vision AI**](https://github.com/om-gupta-30/DL-Football-player-detection) | `YOLOv8` `DeepSort` `OpenCV` `FastAPI` `React` | Real-time football player detection, tracking, and team assignment |
 | 🏢 | [**YNM CRM & Price Engine**](https://github.com/om-gupta-30/YNM-PRICE-ENGINE-CRM) | `Next.js` `TypeScript` `Supabase` `Gemini` `GCP` | Enterprise CRM with dynamic pricing, deployed at [crm-ynmsafety.com](https://www.crm-ynmsafety.com/login) |
+| 🏭 | [**YNM ERP**](https://github.com/om-gupta-30/ynm-erp) | `Next.js 16` `TypeScript` `Supabase` `RLS` `Docker` | 8-module ERP — procurement to dispatch, 8-role RBAC, BOM-driven production, audit trail |
 | 💬 | [**RAG PDF Chatbot**](https://github.com/om-gupta-30/YNM-RAG-CHATBOT) | `FastAPI` `FAISS` `Gemini` `React` `Docker` | Enterprise chatbot for PDF knowledge retrieval with vector search |
 
 </div>
